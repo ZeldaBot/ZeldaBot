@@ -1,5 +1,5 @@
 ### Hi there 👋, Zelda Team
-#### ZeldaBot is now on github!
+#### ZeldaBot is now on github! <br>
 Official account of Zelda development!
 Support Server https://zeldabot.xyz/support
 Official Website Support Server https://zeldabot.xyz
