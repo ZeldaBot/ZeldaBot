@@ -1,6 +1,6 @@
 ### Hi there 👋, Zelda Team
 #### ZeldaBot is now on github! <br>
-Official account of Zelda development!
+Official account of Zelda development! \n
 Support Server https://zeldabot.xyz/support
 Official Website Support Server https://zeldabot.xyz
 Business Email help@zeldabot.xyz
