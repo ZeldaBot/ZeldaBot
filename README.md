@@ -1,7 +1,13 @@
-echo "# ZeldaBot" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ZeldaBot/ZeldaBot.git
-git push -u origin main
+### Hi there 👋, Zelda Team
+#### ZeldaBot is now on github!
+![ZeldaBot is now on github!](https://media.discordapp.net/attachments/823308793185960012/896380359866994708/2559e57569750228fc126728b25be849.jpg)
+
+Official account of Zelda development!
+Support Server https://zeldabot.xyz/support
+Official Website Support Server https://zeldabot.xyz
+Business Email help@zeldabot.xyz
+
+
+
+
+
